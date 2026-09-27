@@ -44,3 +44,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Musho-hub/spaceventure-frontend.git
+
+npm install
+
+npm run dev
