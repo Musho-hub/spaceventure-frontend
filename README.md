@@ -4,7 +4,8 @@ My final exam project from the Web Developer education at Viden Djurs.
 
 **Grade: 12**
 
-Spaceventure is a web application developed as my final examination project.
+For the exam, I was provided with a design and a backend API and tasked with turning them into a functional frontend application. 
+I built the frontend using Next.js, React, TypeScript, and Tailwind CSS.
 
 ## 🛠️ Tech Stack
 
@@ -32,9 +33,7 @@ During the project I worked with:
 Spaceventure was developed as my final exam project during my
 Web Developer education at Viden Djurs.
 
-The project gave me the opportunity to combine the technologies and
-development practices I had learned throughout my education into a
-larger, complete application.
+The project gave me the opportunity to bring together what I had learned throughout my education, including building a larger frontend, working with an existing API, structuring components, handling validation, and implementing a provided design.
 
 I received the grade **12** for the final examination.
 
